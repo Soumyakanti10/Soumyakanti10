@@ -18,7 +18,6 @@
 - 💻 **Aspiring AI/ML Engineer** | Currently diving into **Deep Learning (ANN, CNN, RNN)**.
 - 🛠️ **Skills**: Python, C, C++, JavaScript, HTML, CSS, Machine Learning (Regression, Classification, Clustering), KNIME.
 - 📌 **Currently Learning**: Neural Networks, Model Deployment (Flask, FastAPI, Streamlit).
-- 🎯 **Goal**: Preparing for AI/ML job roles within the next **9 months**.
 - 🎧 **Hobbies**: Traveling, Photography, Listening to Audio Stories.
 
 ---
