@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/Soumyakanti10/Soumyakanti10/blob/main/giphy.gif)](https://yourwebsite.com/)
+
 ### Hi there, I'm Soumyakanti Bandopadhyay! 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F700&width=435&lines=Hi+There!+I'm+Soumyakanti;AI%2FML+Enthusiast+%26+Developer;Passionate+about+Technology+%26+Innovation)
