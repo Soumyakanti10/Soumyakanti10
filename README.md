@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Soumyakanti10/Soumyakanti10/blob/main/giphy.gif)](https://yourwebsite.com/)
+[![MasterHead](https://user-images.githubusercontent.com/97103333/223966150-91dff73d-9dcd-4489-9cf4-67a7824fc536.gif)](https://mrfoxak.io/)
 
 ### Hi there, I'm Soumyakanti Bandopadhyay! 👋
 
