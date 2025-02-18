@@ -3,7 +3,8 @@
 ### Hi there, I'm Soumyakanti Bandopadhyay! 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F700&width=435&lines=Hi+There!+I'm+Soumyakanti;AI%2FML+Enthusiast+%26+Developer;Passionate+about+Technology+%26+Innovation)
-<img align="right" alt="Coding" width="400" src="https://github.com/Soumyakanti10/Soumyakanti10/blob/main/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Soumyakanti10/Soumyakanti10/blob/main/giphy.gif" style="margin-top: -10px;">
+
 
 **🚀 AI/ML Enthusiast | Front-End Developer | Electronics & Communication Engineer**  
 📍 *Exploring the world of Artificial Intelligence, Machine Learning, and Web Development!*  
